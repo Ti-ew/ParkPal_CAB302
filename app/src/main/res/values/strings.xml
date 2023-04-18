@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ParkPal</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >6 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="User_Name">Username</string>
+    <string name="Registration">Register</string>
+    <string name="Log_In">Login</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="api_key">AIzaSyAvFalj7j4p21Nz81_7JOT-YesCqOB9C_I</string>
+    <string name="map_button">Maps</string>
+    <string name="settings_key">Settings</string>
+    <string name="wallet_key">Wallet</string>
+    <string name="profile_key">Profile</string>
+    <string name="key_Logout">Logout</string>
+    <string name="prompt_FullName">Full Name</string>
+    <string name="key_confirm_password">Confirm Password</string>
+    <string name="key_create_account">Create Account</string>
+    <string name="key_backToLogin">Return To Login Page</string>
+    <string name="verification_text_1">Please Click The Button Below To Verify Your Email Address</string>
+    <string name="key_verify">Verify Email</string>
+    <string name="key_resend_email">Resend Email</string>
+    <string name="verification_text_2">A Verification Email Has Been Sent To You. If You Have Not Received It, Click The
+        Button Below To Resend The Email.
+    </string>
+    <string name="general_settings">General Settings</string>
+    <string name="notifications_settings">Notifications Settings</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="voice_sound_settings">Voice &amp; Sound Settings</string>
+    <string name="privacy_settings">Privacy Settings</string>
+</resources>
